@@ -13,3 +13,4 @@ Flask web application for labeling images into a CSV dataset
 1. Headers for your CSV file will be generated from the labels in options.py
 2. When all images in your static/img folder are labelled, the app will exit with index_out_of_bounds
 3. Only .jpg images are handled by file_management
+# LabelImages_website
